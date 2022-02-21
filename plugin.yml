@@ -1,0 +1,17 @@
+---
+name: BackPack
+version: 1.0
+main: EnteFan\Main
+api: 4.0.0
+author: "EnteFan"
+website: github.com/EnteFanPHP
+
+commands:
+ backpack:
+   description: "§5BackPack - Plugin"
+   permission: backpack.perm
+  
+permissions:
+   backpack.perm:
+    default: true
+...
